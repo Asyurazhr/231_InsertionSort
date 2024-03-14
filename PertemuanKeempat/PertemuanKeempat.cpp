@@ -45,6 +45,7 @@ void insertionSort() {
         
         arr[j + 1] = temp; //step 5
 
+
     }
 }
 
