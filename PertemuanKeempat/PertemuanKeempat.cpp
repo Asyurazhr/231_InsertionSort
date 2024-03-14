@@ -34,6 +34,7 @@ void insertionSort() {
 
         j = i - 1; //step 3
 
+
         while (j >= 0 && arr[j] > temp) //step 4
 
         {
