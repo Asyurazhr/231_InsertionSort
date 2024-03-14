@@ -18,6 +18,7 @@ void InsertionSort() {
         }
         
         arr[j + 1] = temp; //step 5
+
     }
 }
 
